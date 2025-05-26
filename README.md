@@ -1,2 +1,2 @@
-# MERN Vite + React + TypeScript Frontend App Template
+# MERN Vite Frontend App Template
 
