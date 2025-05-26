@@ -1,2 +1,2 @@
-# Portfolio Website - Thomas Schrödinger
+# MERN Vite + React + TypeScript Frontend App Template
 
